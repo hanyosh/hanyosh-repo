@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>com.github</groupId>
-  <artifactId>gagu-web</artifactId>
+  <artifactId>gagu-core</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20140726.065455</timestamp>
+      <timestamp>20140726.065454</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20140726065455</lastUpdated>
+    <lastUpdated>20140726065454</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20140726.065455-1</value>
-        <updated>20140726065455</updated>
+        <value>1.0-20140726.065454-1</value>
+        <updated>20140726065454</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20140726.065455-1</value>
-        <updated>20140726065455</updated>
+        <value>1.0-20140726.065454-1</value>
+        <updated>20140726065454</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0-20140726.065455-1</value>
-        <updated>20140726065455</updated>
+        <value>1.0-20140726.065454-1</value>
+        <updated>20140726065454</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
