@@ -5,14 +5,14 @@
     <parent>
         <groupId>com.github</groupId>
         <artifactId>gagu</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>${gagu.version}</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github</groupId>
     <artifactId>gagu-core</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>${gagu.version}</version>
 
 
 

@@ -7,12 +7,12 @@
     <parent>
         <groupId>com.github</groupId>
         <artifactId>gagu</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>${gagu.version}</version>
     </parent>
     
     <groupId>com.github</groupId>
     <artifactId>gagu-beans</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>${gagu.version}</version>
 
 
 </project>
